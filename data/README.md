@@ -1,16 +1,29 @@
-# Project Dataset
+Dataset Documentation
 
-## Dataset Name
+Dataset Name
+
 Power Consumption of Tetouan City
 
-## Source
+Source
+
 UCI Machine Learning Repository
 
-## Dataset Link
 https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
 
-## Description
-This dataset contains electricity consumption measurements from three distribution zones, together with weather information.
+Description
 
-## Purpose
-The dataset will be used to analyze electricity consumption patterns and identify peak-demand periods.
+The dataset contains 52,417 electricity consumption records collected from three distribution zones in Tetouan City, Morocco, during 2017.
+
+It includes electricity consumption measurements and weather information recorded at 10-minute intervals.
+
+Purpose
+
+This dataset will be used to analyze electricity consumption patterns, identify peak-demand periods, compare consumption across zones, and generate alerts when consumption exceeds defined thresholds.
+
+Data Format
+
+CSV (Comma-Separated Values)
+
+Licence
+
+CC BY 4.0
